@@ -43,4 +43,7 @@ print(message)
 
 
 # exercise 3 : با استفاده از روش بالا پیغام زیر را پرینت نمایید.
+# name = "behrad"
+# family = "alavi"
+# age = 12
 #    I am behrad alavi and i have 12 years old.
