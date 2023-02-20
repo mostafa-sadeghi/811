@@ -20,11 +20,11 @@
 # print(result)
 
 
-list1 = [1, 2, 3, 4, 5]
+# list1 = [1, 2, 3, 4, 5]
 # list2 = ['a', 'b', 'c']
 # result = list1 + list2
 # print(result)
 
 
-result = list1 * 6
-print(result)
+# result = list1 * 6
+# print(result)
