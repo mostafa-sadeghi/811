@@ -43,3 +43,17 @@
 # exercise : برنامه ای بنویسید که اسم چهار نفر را از ورودی دریافت نماید و در لیستی ذخیره کند
 # سپس اسم یک نفر از نفرات موجود در لیست را از ورودی بگیرد و او را از لیست حذف نماید.
 # در هز مرحله نمایش لیست الزامیست.
+
+names = []
+n1 = input('enter a name: ')
+n2 = input('enter a name: ')
+n3 = input('enter a name: ')
+n4 = input('enter a name: ')
+names.append(n1)
+names.append(n2)
+names.append(n3)
+names.append(n4)
+print(names)
+n = input('enter a name: ')
+names.remove(n)
+print(names)
