@@ -33,15 +33,15 @@ b = 4
 # دستورات مورد نیاز:
 # input()     varaiable    print()    if   else
 
-age = 12
+# age = 12
 
-if age < 8:
-    print("kid")
-elif 8 <= age < 13:
-    print("junior")
+# if age < 8:
+#     print("kid")
+# elif 8 <= age < 13:
+#     print("junior")
 
-else:
-    print("adult")
+# else:
+#     print("adult")
 
 # تمرین 2
 
