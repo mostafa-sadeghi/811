@@ -31,3 +31,10 @@
 
 # الگوریتم و فلوچارت شناسایی عدد زوج را بنویسد
 # یعنی عدد داده بشه و بگید که زوج است یا فرد
+
+
+# number = int(input('enter a number: '))
+# if number % 2 == 0:
+#     print(f"{number} is even")
+# else:
+#     print(f"{number} is odd")
