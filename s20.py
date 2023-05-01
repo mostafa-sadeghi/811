@@ -11,6 +11,32 @@ MONTHS = "JanFebMarAprMay"
 خروجی برنامه : Jan
 '''
 
+# MONTHS = "JanFebMarAprMay"
+# number = int(input("Enter month's number: "))
+# if number == 1:
+#     print(MONTHS[:3])
+# elif number == 2:
+#     print(MONTHS[3:6])
+# elif number == 3:
+#     print(MONTHS[6:9])
+
+
+# print(MONTHS[9:12])
+# print(MONTHS[12:16])
+# MONTHS_LIST = []
+# for i in range(5):
+#     MONTHS_LIST.append(MONTHS[i*3:i*3+3])
+
+# print(MONTHS_LIST)
+# number = int(input("Enter month's number: "))
+# print(MONTHS_LIST[number-1])
+
+
+
+
+
+
+
 # ساختن رمز
 CHARACTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 # با کمک حروف بالا یک رمز بسازید
